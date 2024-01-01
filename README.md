@@ -1,6 +1,6 @@
 # Bank-Loan-Project
 
-PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 In order to monitor and assess our bank's lending activities and performance, the Bank Loan Report project aims to address several key challenges and informational needs. The primary objective is to create a comprehensive set of dashboards that provide insights into the bank's loan portfolio, lending operations, and the quality of loans issued. 
 
