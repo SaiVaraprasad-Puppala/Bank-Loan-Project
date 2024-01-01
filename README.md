@@ -10,3 +10,4 @@ The second dashboard, 'Overview,' visualizes critical loan metrics and trends th
 
 The third dashboard, 'Details,' serves as a consolidated interface for accessing comprehensive information about the bank's loan portfolio, borrower profiles, and loan performance. These dashboards collectively empower decision-makers with the necessary tools to make informed, data-driven decisions, track loan metrics, and assess the health and performance of the bank's loan portfolio.
 
+# Here is my dashboard https://www.novypro.com/project/bank-loan-
